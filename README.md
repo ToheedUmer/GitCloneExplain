@@ -1,0 +1,2 @@
+# GitCloneExplain
+Explaining git 
